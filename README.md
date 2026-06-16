@@ -1,10 +1,11 @@
 # FARAH-Bendini
 # 💫 About Me:
-First-year Computer Science student specializing in Artificial Intelligence.<br>I’m currently working on improving my programming skills and building personal projects.<br> <br>I’m looking to collaborate on UI/UX design, software development, and innovative tech projects.<br><br>I’m looking for help with gaining practical experience and learning industry best practices.<br><br>Always looking for opportunities to grow my skills and turn ideas into reality.
+First-year Computer Science student 🎓specializing in Artificial Intelligence🤖 .<br>I’m currently working on improving my programming skills and building personal projects.<br> <br>I’m looking to collaborate on UI/UX design, software development, and innovative tech projects 💡.<br><br>I’m looking for help with gaining practical experience and learning industry best practices.<br><br>Always looking for opportunities to grow my skills and turn ideas into reality.🌱
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Farah Bendini) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farah.bendini@ensia.edu.dz) 
+📧 Email : [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:farah.bendini@ensia.edu.dz)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
